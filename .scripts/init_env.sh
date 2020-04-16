@@ -2,8 +2,10 @@
 # Note: Script must be run like this `. .init_env.sh` to setup variables for your current shell
 # define relative paths
 
-DistPath='tauri/examples/communication/dist'
-SrcPath='tauri/examples/communication/src-tauri'
+DistPath='examples/tauri/communication/dist'
+SrcPath='examples/tauri/communication/src-tauri'
+# DistPath='tauri/examples/communication/dist'
+# SrcPath='tauri/examples/communication/src-tauri'
 
 echo "Setting up enviroment Variables"
 

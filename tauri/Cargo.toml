@@ -61,7 +61,7 @@ save-dialog = []
 [package.metadata.docs.rs]
 features = ["dev-server", "all-api"]
 
-[[example]]
-name = "communication"
-path = "examples/communication/src-tauri/src/main.rs"
+# [[example]]
+# name = "communication"
+# path = "examples/communication/src-tauri/src/main.rs"
 
